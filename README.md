@@ -7,3 +7,25 @@ Feature Extraction
 Statistical Analysis
 Machine Learning Models
 Convolutional Neural Networks (CNN)
+
+GTZAN Genre Collection Dataset
+
+Contains 1000 audio recordings divided into 10 genres:
+
+Blues, Classical, Country, Disco, Hip-Hop, Jazz, Metal, Pop, Reggae, Rock
+
+Each audio file:
+
+Duration: 30 seconds
+Format: WAV
+Sampling Rate: 22050 Hz
+
+#Project Goal
+The project aims is to: 
+Analyze music signals.
+Extract meaningful audio features.
+Visualize the acoustic characteristics of different genres.
+Train machine learning models.
+Train deep learning CNN models.
+Compare performances of different classifiers.
+Evaluate classification accuracy.
