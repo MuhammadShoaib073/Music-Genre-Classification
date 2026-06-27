@@ -20,9 +20,8 @@ Duration: 30 seconds
 Format: WAV
 Sampling Rate: 22050 Hz
 
-#Project Goal
-The project aims is to: 
-Analyze music signals.
+Project Goal
+The project aims is to Analyze music signals.
 Extract meaningful audio features.
 Visualize the acoustic characteristics of different genres.
 Train machine learning models.
