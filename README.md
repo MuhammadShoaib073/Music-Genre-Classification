@@ -1,0 +1,2 @@
+# Music-Genre-Classification
+Project Overview  Music Genre Classification is a supervised machine learning task that automatically identifies the genre of a music recording based on its acoustic characteristics. The objective of this project is to classify audio recordings into predefined genres by extracting audio features and training ML and deep learning models. 
